@@ -10,9 +10,14 @@ The plan is to appropriate and extend [@vicapow](https://github.com/vicapow)'s [
 
 ## See also
 
-* [pmf.js](https://github.com/tcr/node-pmf/blob/master/pmf.js)
+* [pmf.js](https://github.com/tcr/node-pmf/blob/master/pmf.js) - bayesian
+  probability mass function
 
-* [BayesNet](https://github.com/AllenDowney/ThinkBayes/pull/3) extension
+* [classifier.js](https://github.com/ironwallaby/naive-bayes-classifier) -
+  simple, bare-bones naive bayes classifier
+
+* [BayesNet](https://github.com/AllenDowney/ThinkBayes/pull/3) extension of
+  `thinkbayes.py`
 
 * AIMA's [probability.py](http://aima-python.googlecode.com/svn/trunk/probability.py)
 
